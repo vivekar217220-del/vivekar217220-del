@@ -10,12 +10,14 @@ currently making microcontrollers do things they didn't sign up for.
 
 ### 🛠️ what i work with
 
-- AVR / Arduino · ATmega2560 · ATmega328P · STM32 ·Rasberry PI(Basics)
-- Embedded C · Circuit Design · PWM · ADC
-- Proteus · Tinkercad · Logisim
-- Robotics · Motor Control · Sensor Interfacing
-- Drone Designing · Components Selection using it's Datasheets.
-- Cloud Expertise (AWS Services and Connect it with the WebPages.)
+-Languages: Embedded C,C/C++, Python, MATLAB, Assembly
+-MCUs / Boards: STM32, Arduino Uno R3, ESP32 (BT/WiFi), Raspberry Pi, FPGA
+-Firmware: GPIO, UART, PWM, ADC, Interrupts, Timers, Sensor Integration, Motor Control (L298D, L293D, ULN2003A, H-bridge)
+-Robotics: ROS2 (Nodes, Topics,Services),RobotKinematics, FK/IK,DOFanalysis,Turtlesim
+-Drone Systems: Frame Design, ESC/Motor Tuning, Component Selection, Flight Controller Config, Mission Planner, QGroundControl, ExpressLRS Configurator
+-Digital : FPGA, CPU Architecture, ALU Design, Instruction Set, RTL Design
+-Cloud / AWS: Lambda, S3, DynamoDB, Cognito, Comprehend, API Gateway, CloudFront, EC2
+-Tools: STM32CubeIDE, Proteus, Logisim, Tinkercad, MATLAB, Git, VS Code, Linux CLI
 
 ---
 
@@ -41,3 +43,4 @@ Linkdin Link :- https://www.linkedin.com/in/chaudhary-vivek-4592692a7?utm_source
 
 *Engineering student · Embedded Systems · Robotics · Drone Engineering*
 *Gandhinagar, India*
+Strongly Intrested in the Workshop Attend. And Gain New Knowledge and Understandings.
