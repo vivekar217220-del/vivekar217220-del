@@ -43,4 +43,6 @@ Linkdin Link :- https://www.linkedin.com/in/chaudhary-vivek-4592692a7?utm_source
 
 *Engineering student · Embedded Systems · Robotics · Drone Engineering*
 *Gandhinagar, India*
+
+
 Strongly Intrested in the Workshop Attend. And Gain New Knowledge and Understandings.
