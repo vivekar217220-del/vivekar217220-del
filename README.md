@@ -15,6 +15,7 @@ currently making microcontrollers do things they didn't sign up for.
 - Proteus · Tinkercad · Logisim
 - Robotics · Motor Control · Sensor Interfacing
 - Drone Designing · Components Selection using it's Datasheets.
+- Cloud Expertise (AWS Services and Connect it with the WebPages.)
 
 ---
 
