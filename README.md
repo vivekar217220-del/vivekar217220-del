@@ -40,4 +40,4 @@ Linkdin Link :- https://www.linkedin.com/in/chaudhary-vivek-4592692a7?utm_source
 ---
 
 *Engineering student · Embedded Systems · Robotics · Drone Engineering*
-*Ahmedabad, India*
+*Gandhinagar, India*
