@@ -11,11 +11,17 @@ currently making microcontrollers do things they didn't sign up for.
 ### 🛠️ what i work with
 
 -Languages: Embedded C,C, Python(Basics) , MATLAB Simulink (Basics), Assembly(Basics) , RTOS(Basics), Linux(Basics)  
+
 -MCUs / Boards: Arduino Uno R3, ESP32 (BT/WiFi), FPGA , ATMEGA2560.
+
 -Firmware: GPIO, UART, PWM, ADC, Interrupts, Timers, Sensor Integration, Motor Control (L298D, L293D, ULN2003A, H-bridge)
+
 -Robotics: ROS2 (Nodes, Topics,Services Basic Concepts).
+
 -Drone Systems: Frame Design, ESC/Motor Tuning, Component Selection, Basics of - (Flight Controller Config, Mission Planner, QGroundControl, ExpressLRS Configurator)
+
 -Cloud / AWS: Lambda, S3, DynamoDB, Cognito, Comprehend, API Gateway, CloudFront, EC2
+
 -Tools: ArduinoIDE, Proteus, Logisim, Tinkercad, MATLAB, Git, VS Code, Linux CLI, Putty(FPGA Linux).
 
 ---
