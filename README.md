@@ -1,65 +1,59 @@
-# hey, i build things that work ⚡
+# Vivek Chaudhary
 
-embedded systems · robotics · drone engineering · IoT 
+**Embedded Firmware and IoT | B.Tech. student in Information and Communications Technology**
 
-if it has wires, i've probably connected it wrong first. then made it perfect.
+I build microcontroller prototypes that connect firmware with sensors, actuators, and network interfaces. I study at Pandit Deendayal Energy University in Gandhinagar and am pursuing embedded firmware and IoT engineering roles.
 
-currently making microcontrollers do things they didn't sign up for.
+[LinkedIn](https://www.linkedin.com/in/chaudhary-vivek-4592692a7/)
 
----
+## Selected projects
 
-### 🛠️ what i work with
-
--Languages: Embedded C,C, Python(Basics) , MATLAB Simulink (Basics), Assembly(Basics) , RTOS(Basics), Linux(Basics)  
-
--MCUs / Boards: Arduino Uno R3, ESP32 (BT/WiFi), FPGA , ATMEGA2560.
-
--Firmware: GPIO, UART, PWM, ADC, Interrupts, Timers, Sensor Integration, Motor Control (L298D, L293D, ULN2003A, H-bridge)
-
--Robotics: ROS2 (Nodes, Topics,Services Basic Concepts).
-
--Drone Systems: Frame Design, ESC/Motor Tuning, Component Selection, Basics of - (Flight Controller Config, Mission Planner, QGroundControl, ExpressLRS Configurator)
-
--Cloud / AWS: Lambda, S3, DynamoDB, Cognito, Comprehend, API Gateway, CloudFront, EC2
-
--Tools: ArduinoIDE, Proteus, Logisim, Tinkercad, MATLAB, Git, VS Code, Linux CLI, Putty(FPGA Linux).
-
----
-
-## 📌 Projects
-
-### Embedded systems, robotics, IoT, and electronics
-
-| Project | What it demonstrates |
+| Project | Engineering focus |
 | --- | --- |
-| [Obstacle-Avoiding Robotic Car](https://github.com/vivekar217220-del/Ultrasonic-and-Bluetooth-Controlled-Obstacle-Avoiding-Robotic-Car-using-Arduino-and-Motor-Shield) | Arduino car with ultrasonic obstacle detection, Bluetooth control, and a motor shield. |
-| [RevAlert](https://github.com/vivekar217220-del/PWM-Based-DC-Motor-Speed-Controller-with-RPM-Display-and-Safety-Indication-System) | ATmega2560 PWM motor controller with an LCD speed estimate, LED zones, and a buzzer. |
-| [ESP32 Air Quality Monitor](https://github.com/vivekar217220-del/AQI_Monitoring_System-) | Environmental sensor readings, a simulated PM2.5 index, local alerts, and HTTP/MQTT demo recordings. |
-| [IR Smart Home Automation](https://github.com/vivekar217220-del/Remote-Control-Based-Home-Automation-for-Smart-Home-.) | NEC infrared remote decoding and multi-relay control in Tinkercad. |
-| [AVR Interrupt Demo](https://github.com/vivekar217220-del/Embedded_Interrupts) | ATmega2560 external interrupt and reset behavior demonstrated with LEDs and a buzzer. |
-| [8-Bit CPU in Logisim](https://github.com/vivekar217220-del/Simple-8-Bit-CPU-Design-using-Logisim) | Digital logic design that illustrates the fetch–decode–execute cycle. |
-| [Dual-Output Regulated Power Supply](https://github.com/vivekar217220-del/Dual-Output-Regulated-Power-Supply-230V-AC-to-12V-9V-DC-) | Proteus simulation of 12 V and 9 V regulated DC outputs. |
+| [ESP32 Air Quality Monitoring System](https://github.com/vivekar217220-del/AQI_Monitoring_System-) | Integrates MQ-7 and DHT11 readings with an OLED, RGB LED, and buzzer. The AQI demo uses simulated PM2.5. Wi-Fi data sharing and a web dashboard are ongoing work. |
+| [Arduino Smart Robotic Car](https://github.com/vivekar217220-del/Ultrasonic-and-Bluetooth-Controlled-Obstacle-Avoiding-Robotic-Car-using-Arduino-and-Motor-Shield) | Combines ultrasonic obstacle avoidance, Bluetooth manual control, and PWM motor drive. The team build involved PCB soldering and hardware integration. |
+| [RetailPulse](https://github.com/vivekar217220-del/Cloud_AWS_Workshop-) | AWS workshop hackathon finalist project. Uses AWS services to bring retail trends, review sentiment, and alerts into a dashboard. |
 
-[Embedded Systems Journey](https://github.com/vivekar217220-del/Embedded_Journey) collects my lab notes, coursework, and project write-ups.
+## Firmware internship
 
-### Software, AI, and cloud
+**REAI Innovations Pvt. Ltd.** · Embedded Firmware Engineering Intern · May–July 2026
 
-| Project | What it demonstrates |
+Designed a data diode for one-way data transfer on a SmartFusion FPGA using Libero SoC. Used Verilog for packet filtering and one-way flow control, and applied network checksum verification.
+
+## Technical skills
+
+| Area | Skills |
 | --- | --- |
-| [StudyMate](https://github.com/vivekar217220-del/Studymate) | AWS-backed study app with PDF summaries, quizzes, and an AI tutor. |
-| [RetailPulse](https://github.com/vivekar217220-del/Cloud_AWS_Workshop-) | AWS workshop project for retail trend tracking and sentiment analysis. |
-| [Generative AI Projects](https://github.com/vivekar217220-del/AI_Projects) | Python chatbot and LLM-based text summarizer. |
-| [LSTM Text Summarizer](https://github.com/vivekar217220-del/genai-text-summarizer) | Python deep-learning summarization experiment with a linked Colab notebook. |
-| [Quiz and Exam System](https://github.com/vivekar217220-del/OS_Quiz-Exam_System) | Python/Tkinter desktop quiz with student and admin views. |
+| Firmware | Embedded C, C, GPIO, timers, PWM, interrupts, sensor and actuator integration |
+| Microcontrollers | ATmega2560, Arduino Uno, ESP32 |
+| Interfaces and networking | UART, SPI, I²C, TCP/IP, UDP, HTTP, MQTT |
+| FPGA and digital logic | SmartFusion, Libero SoC, Verilog for the internship design, digital logic design |
+| Foundations | RTOS fundamentals, basic assembly, Linux shell scripting, basic Python, AWS services for data storage |
 
----
+## More projects
 
-Linkdin Link :- https://www.linkedin.com/in/chaudhary-vivek-4592692a7?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+### Embedded systems and electronics
 
----
+| Engineering focus | Repository |
+| --- | --- |
+| ATmega2560 motor-control simulation with ADC, Timer1 PWM, and a display. | [RevAlert](https://github.com/vivekar217220-del/PWM-Based-DC-Motor-Speed-Controller-with-RPM-Display-and-Safety-Indication-System) |
+| External interrupt handling and reset behavior with LED and buzzer feedback. | [AVR Interrupt Demo](https://github.com/vivekar217220-del/Embedded_Interrupts) |
+| NEC infrared decoding and relay control in Tinkercad. | [IR Home Automation](https://github.com/vivekar217220-del/Remote-Control-Based-Home-Automation-for-Smart-Home-.) |
+| Digital logic model of the fetch–decode–execute cycle. | [8-Bit CPU in Logisim](https://github.com/vivekar217220-del/Simple-8-Bit-CPU-Design-using-Logisim) |
+| Proteus simulation of regulated 12 V and 9 V outputs. | [Dual-Output Power Supply](https://github.com/vivekar217220-del/Dual-Output-Regulated-Power-Supply-230V-AC-to-12V-9V-DC-) |
 
-*Engineering student · Embedded Systems · Robotics · Drone Engineering · IoT *
-*Gandhinagar, India*
+[Embedded Systems Journey](https://github.com/vivekar217220-del/Embedded_Journey) contains lab notes and project build records.
 
+### Software and AI
 
-Strongly Intrested in the Workshop Attend. And Gain New Knowledge and Understandings.
+| Project focus | Repository |
+| --- | --- |
+| Study platform with PDF upload, summaries, quizzes, and document chat. | [StudyMate](https://github.com/vivekar217220-del/Studymate) |
+| Python notebook prototypes for chatbot interfaces and T5 text summarization. | [Generative AI Prototypes](https://github.com/vivekar217220-del/AI_Projects) |
+| Companion repository for the summarization notebook in Generative AI Prototypes. | [Text Summarizer Notebook](https://github.com/vivekar217220-del/genai-text-summarizer) |
+| Python/Tkinter desktop quiz prototype with student and admin views. | [Quiz and Exam System](https://github.com/vivekar217220-del/OS_Quiz-Exam_System) |
+
+## Achievements
+
+- **First place**, UA VX Drone Design & Deployment Hackathon, April 2026. Designed the drone architecture and selected components.
+- **Top finalist**, AWS Cloud Hackathon, March 2026. Developed RetailPulse as a workshop team project.
